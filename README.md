@@ -22,5 +22,14 @@ All solutions are **high-performance**, ensuring minimal execution time and opti
 | 792-binary-search | **0 ms** (100.00%) | **31.3 MB** (80.36%) |
 
 ---
+🎯 Contributions
+Want to improve the repository? Feel free to:
 
+🏆 Suggest optimizations
+
+📌 Add new problems and solutions
+
+✍ Improve documentation
+
+Submit your changes via a Pull Request.
 
