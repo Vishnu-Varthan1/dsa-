@@ -1,36 +1,42 @@
-🚀 DSA Repository - Binary Search & Sorting Challenges
+# 🚀 DSA Repository — Binary Search & Sorting Challenges
 
-Welcome to the **Binary Search & Sorting Problems** repository! This collection features optimized **C++** solutions for some fundamental DSA challenges.
-
----
-📌 Included Problems
-
-✅ **Find Minimum in Rotated Sorted Array** (`153-find-minimum-in-rotated-sorted-array`)  
-✅ **Find First and Last Position of Element in Sorted Array** (`34-find-first-and-last-position-of-element-in-sorted-array`)  
-✅ **Binary Search Implementation** (`792-binary-search`)  
-
-All solutions are **high-performance**, ensuring minimal execution time and optimal memory usage.
+Welcome to the **Binary Search & Sorting Problems Hub**, a focused collection of optimized C++ solutions for foundational Data Structures & Algorithms questions. Each solution in this repo is benchmarked for performance using LeetSync and adheres to best practices for clarity, efficiency, and scalability.
 
 ---
 
-⚡ Performance Metrics
+## 📁 Included Problems
 
-| Problem | Execution Time | Memory Usage |
-|---------|--------------|-------------|
-| 153-find-minimum-in-rotated-sorted-array | **0 ms** (100.00%) | **14 MB** (79.09%) |
-| 34-find-first-and-last-position-of-element-in-sorted-array | **0 ms** (100.00%) | **17.7 MB** (17.46%) |
-| 792-binary-search | **0 ms** (100.00%) | **31.3 MB** (80.36%) |
-| Find First and Last Position of Element in Sorted Array |0 ms (100.00%)| 15.mb (|
-|153-find-minimum-in-rotated-sorted-array|Time: 0 ms (100.00%) | Memory: 14 MB (79.09%)|
+Explore clean implementations and detailed benchmarks for the following problems:
+
+| 🔢 Problem ID & Name                                                | ⚡ Time       | 💾 Memory   |
+|--------------------------------------------------------------------|--------------|-------------|
+| 153 - Find Minimum in Rotated Sorted Array                         | 0 ms         | 14 MB       |
+| 34 - Find First & Last Position of Element in Sorted Array         | 0 ms         | 17.7 MB     |
+| 792 - Binary Search Implementation                                 | 0 ms         | 31.3 MB     |
+| 1019 - Squares of a Sorted Array                                   | 6 ms         | 30.3 MB     |
+| 26 - Remove Duplicates from Sorted Array                           | 0 ms         | 22.8 MB     |
+| 948 - Sort an Array                                                | 622 ms       | 295.9 MB    |
+| 33 - Search in Rotated Sorted Array                                | 0 ms         | 15.3 MB     |
+| 162 - Find Peak Element                                            | 0 ms         | 18 MB       |
+| 1603 - Running Sum of 1D Array                                     | 0 ms         | 18 MB       |
+| 167 - Two Sum II – Input Array is Sorted                           | 0 ms         | 19.4 MB     |
+| 287 - Find the Duplicate Number                                    | 34 ms        | 65.1 MB     |
+| 2876 - Number of Employees Who Met the Target                      | 2 ms         | 17.7 MB     |
+| 2917 - Count Pairs Whose Sum is Less Than Target                   | 0 ms         | 24.6 MB     |
+| 75 - Sort Colors                                                   | 0 ms         | 17.7 MB     |
+
 ---
-🎯 Contributions
-Want to improve the repository? Feel free to:
 
-🏆 Suggest optimizations
+## 🧠 Languages Used
 
-📌 Add new problems and solutions
+- **C++** — Primary language for all problem-solving logic  
+- **Python** — Supporting scripts and utilities (if applicable)
 
-✍ Improve documentation
+---
 
-Submit your changes via a Pull Request.
+## 🛠 How to Use
+
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/Vishnugoat/dsa-.git
 
