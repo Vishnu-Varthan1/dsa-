@@ -1,4 +1,4 @@
-# 🚀 DSA Repository — Binary Search & Sorting Challenges
+# 🚀 DSA Repository —  leetcode platform
 
 Welcome to the **Binary Search & Sorting Problems Hub**, a focused collection of optimized C++ solutions for foundational Data Structures & Algorithms questions. Each solution in this repo is benchmarked for performance using LeetSync and adheres to best practices for clarity, efficiency, and scalability.
 
