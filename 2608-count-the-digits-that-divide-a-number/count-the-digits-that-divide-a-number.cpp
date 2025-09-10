@@ -5,7 +5,7 @@ public:
         int count =0;
         while(rev){
           int digi = rev%10;
-          if( num% digi ==0){
+          if(digi != 0 && num% digi ==0){
             count++;
           }
            rev/=10;
